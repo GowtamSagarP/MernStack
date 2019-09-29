@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+    font-weight: 400; /* 100-900, bold,bolder */
+    font-size: 16px;
+    text-shadow: 2px 3px 5px black; /* x y blur color */
+    text-transform: capitalize; /* lowercase, uppercase, Capitalie */
+}
+
+p {
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 20px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    text-align: justify; /* left right center */
+    text-decoration: none;
+    text-indent: 30px;
+    /* color:rgb(25,150,60); */
+    /* color:rgba(25,150,60,0.9); */
+    columns: #3fff3f;
+}
+
+/*
+use color name
+rgb(25, 50, 100) red, Green, Blue /color range - 0 to 255/
+rgba(200,50,60,0.8) red, Green, Blue, Alpha - Alpha range is from 0-1
+hexadecimal => #ffff
+*/

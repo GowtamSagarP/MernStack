@@ -1,0 +1,8 @@
+.bg{
+    background-color: royalblue;
+}
+.bgImg{
+    background-image: url(../../media/butterfly.jpeg);
+    background-repeat: no-repeat; /*repeat-x repeat-y */
+    background-position: right bottom;/* left right center or left bottom , right bottom, center bottom*/
+}

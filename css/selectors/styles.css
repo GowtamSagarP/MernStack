@@ -1,0 +1,38 @@
+/* Universal Selectors */
+/*
+universal ===> 0
+typed ===> 10
+class ===> 100
+id ===> 500
+inline style ===> 1000
+*/
+
+* {
+    color: grey;
+}
+
+/* typed selector */
+h1 {
+    color: teal;
+}
+
+/* class selectors */
+
+.para {
+    color: gold;
+}
+
+.bgcolor {
+   background-color: grey;
+}
+
+
+/* id selector */
+
+#firstPara {
+    color:violet;
+}
+
+.about {
+    color:brown;
+}
